@@ -2,8 +2,8 @@
 
 import sys
 
-master_package = str(sys.argv[0])
-server_package = str(sys.argv[1])
+master_package = str(sys.argv[0]) # abs path of master file
+server_package = str(sys.argv[1]) # abs path of client file
 
 master_packages_dict={}
 file = open(master_package, 'r')
