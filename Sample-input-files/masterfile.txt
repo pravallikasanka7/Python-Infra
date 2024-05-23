@@ -1,0 +1,4 @@
+coreapps/sdcss,6.9.2.505,20220624221548
+aos/chef-base,0.4.82,20240130165804
+coreapps/splunkforwarder/8.2.1/20210916215256
+dt-eng/dynatrace-infra,1.0.3,20220615192603
